@@ -5,8 +5,8 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import Message
 
-from pytgcalls import CustomApi
-from pytgcalls import idle
+from pytgcalls_hikka import CustomApi
+from pytgcalls_hikka import idle
 
 app = Client(
     'py-tgcalls',

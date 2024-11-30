@@ -1,10 +1,10 @@
 from pyrogram import Client
 
-from pytgcalls import idle
-from pytgcalls import PyTgCalls
-from pytgcalls.types import AudioQuality
-from pytgcalls.types import MediaStream
-from pytgcalls.types import VideoQuality
+from pytgcalls_hikka import idle
+from pytgcalls_hikka import PyTgCalls
+from pytgcalls_hikka.types import AudioQuality
+from pytgcalls_hikka.types import MediaStream
+from pytgcalls_hikka.types import VideoQuality
 
 app = Client(
     'py-tgcalls',

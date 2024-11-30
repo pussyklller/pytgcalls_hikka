@@ -1,5 +1,5 @@
 from .custom_api import CustomApi
-from .pytgcalls import PyTgCalls
+from .pytgcalls_hikka import PyTgCalls
 from .stream_type import StreamType
 from .sync import idle
 

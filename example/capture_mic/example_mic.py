@@ -1,9 +1,9 @@
 from pyrogram import Client
 
-from pytgcalls import idle
-from pytgcalls import PyTgCalls
-from pytgcalls.media_devices import MediaDevices
-from pytgcalls.types import MediaStream
+from pytgcalls_hikka import idle
+from pytgcalls_hikka import PyTgCalls
+from pytgcalls_hikka.media_devices import MediaDevices
+from pytgcalls_hikka.types import MediaStream
 
 app = Client(
     'py-tgcalls',
