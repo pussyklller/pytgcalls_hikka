@@ -9,7 +9,7 @@ about: Dict = {}
 with open(
     os.path.join(
         base_path,
-        'pytgcalls',
+        'pytgcalls_hikka',
         '__version__.py',
     ), encoding='utf-8',
 ) as f:
