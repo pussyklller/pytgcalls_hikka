@@ -1,4 +1,4 @@
-from pytgcalls.types.py_object import PyObject
+from pytgcalls_hikka.types.py_object import PyObject
 
 
 class Update(PyObject):
