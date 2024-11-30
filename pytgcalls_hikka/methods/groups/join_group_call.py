@@ -30,7 +30,7 @@ from ...types.input_stream import VideoPiped
 from ...types.input_stream.audio_image_piped import AudioImagePiped
 from ...types.session import Session
 
-py_logger = logging.getLogger('pytgcalls')
+py_logger = logging.getLogger('pytgcalls_hikka')
 
 
 class JoinGroupCall(Scaffold):

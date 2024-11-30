@@ -2,7 +2,7 @@ import logging
 
 from ...scaffold import Scaffold
 
-py_logger = logging.getLogger('pytgcalls')
+py_logger = logging.getLogger('pytgcalls_hikka')
 
 
 class JoinVoiceCall(Scaffold):
