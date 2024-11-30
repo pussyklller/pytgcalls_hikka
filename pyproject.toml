@@ -1,6 +1,6 @@
 [project]
 dynamic = ["version"]
-name = "py-tgcalls"
+name = "pytgcalls_hikka"
 description = "Async client API for the Telegram Calls."
 readme = "README.md"
 license = {file = "LICENSE"}
