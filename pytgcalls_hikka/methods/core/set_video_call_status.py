@@ -1,6 +1,6 @@
 from asyncio.log import logger
 
-from pytgcalls_hikka.scaffold import Scaffold
+from ...scaffold import Scaffold
 
 
 class SetVideoCallStatus(Scaffold):
